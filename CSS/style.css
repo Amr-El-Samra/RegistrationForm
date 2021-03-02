@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #24353f;
+}
+h1{
+  color: #17a2b8;
+}
+.contBg{
+  background-color: rgba(0, 0, 0, 0.18);
+}
+#name, #email, #pass{
+  color: white !important;
+  border: 1px solid #ced4da;
+}
+input{
+  background-color: rgba(0, 0, 0, 0.18) !important;
+}
